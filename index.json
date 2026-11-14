@@ -1,0 +1,22 @@
+{
+  "app_name": "धार्मिक संग्रह",
+  "version": 1,
+  "files": [
+    {
+      "id": "aarti",
+      "name_hi": "आरती संग्रह",
+      "name_en": "Aarti Collection",
+      "file": "content/aarti.json"
+    },
+    {
+      "id": "bhajan",
+      "name_hi": "भजन संग्रह",
+      "file": "content/bhajan.json"
+    },
+    {
+      "id": "katha",
+      "name_hi": "व्रत,कथा,कहानी ",
+      "file": "content/katha.json"
+    }
+  ]
+}
